@@ -7,4 +7,4 @@
 - Husky
 
 ## Contract Me
-[email](thyahan@gmail.com)
+[Yutthana Yahan](mailto:thyahan@gmail.com?subject=[GitHub]%20library-boilerplate)
